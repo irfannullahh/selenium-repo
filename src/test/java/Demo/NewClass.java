@@ -7,10 +7,10 @@ public class NewClass {
 		int csk=5;
 		int rcb=1;
 		int c=5;
-		if(csk>=c) {
-			System.out.println("csk win ,rcb lolipop");
+		if(csk>=c || rcb>=c) {
+			System.out.println("csk dha pooleh");
 		}
 		else
-		System.out.println("rcb with lady cup");
+		System.out.println("rcb");
 	}
 }
