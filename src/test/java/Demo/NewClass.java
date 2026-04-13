@@ -8,7 +8,7 @@ public class NewClass {
 		int rcb=1;
 		int c=5;
 		if(csk>=c || rcb>=c) {
-			System.out.println("csk dha pooleh");
+			System.out.println("csk pooleh");
 		}
 		else
 		System.out.println("rcb");
