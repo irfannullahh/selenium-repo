@@ -4,7 +4,8 @@ public class PracticeJava {
 
 	public static void main(String[] args) {
 		
-	System.out.println("practice git");
+	System.out.println("Practice Git");
+	System.out.println("Changed");
 	
 	}
 }
